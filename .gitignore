@@ -1,0 +1,8 @@
+# ignore safe-states of notebooks
+*.ipynb_checkpoints*
+
+# ignore converted notebooks
+# *.html
+
+# ignore csv from UE6
+UE6/dataset-cf10-46.csv
